@@ -1,0 +1,21 @@
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\Helicopter Shooter Game.exe.config
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\Helicopter Shooter Game.exe
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\Helicopter Shooter Game.pdb
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter Shooter Game.csprojAssemblyReference.cache
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter_Shooter_Game.Properties.Resources.resources
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter Shooter Game.csproj.GenerateResource.cache
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter Shooter Game.csproj.CoreCompileInputs.cache
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter Shooter Game.exe
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter Shooter Game.pdb
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter_Shooter_Game.Game.resources
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter_Shooter_Game.Menu.resources
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter_Shooter_Game.Select.resources
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter_Shooter_Game.CarGame.resources
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.Controls.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.Shared.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.Tools.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\bin\Debug\VisioForge.Types.dll
+C:\Users\TARIK\source\repos\Helicopter Shooter Game\Helicopter Shooter Game\obj\Debug\Helicopter Shooter Game.csproj.CopyComplete
