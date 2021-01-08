@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\IgraKoli\IgraKoli\bin\Debug\IgraKoli.exe.config
+C:\Users\User\source\repos\IgraKoli\IgraKoli\bin\Debug\IgraKoli.exe
+C:\Users\User\source\repos\IgraKoli\IgraKoli\bin\Debug\IgraKoli.pdb
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.IgraKoli.resources
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.Properties.Resources.resources
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.exe
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.pdb
+C:\Users\User\source\repos\IgraKoli\IgraKoli\bin\Debug\WindowsBase.dll
+C:\Users\User\source\repos\IgraKoli\IgraKoli\obj\Debug\IgraKoli.csproj.CopyComplete
